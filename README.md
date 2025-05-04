@@ -14,7 +14,7 @@ The project involves:
 
 A detailed walkthrough of the project is available in the video below:
 
-[![Author Attribution Project Video](author-attribution-project-video1-thumbnail.png)](https://youtu.be/znGm4nXyUdM)
+[![Author Attribution Project Video](author-attribution-project-video1-thumbnail.png)](https://youtu.be/rqm7sYqHh3M)
 
 ## Requirements
 
